@@ -1,0 +1,4 @@
+Valor da movimentação Tipo de aplicação ID_CLiente CNPJ
+10000 Aplicação 5678 462.563.876/0001-46
+6269 Resgate 1496 075.344.618/0001-92
+7835 Aplicação 9535 075.344.618/0001-93
